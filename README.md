@@ -30,4 +30,6 @@ Or on run directly with prolog
   swipl -f rel_CAN.pl -g go
 ```
 
-  
+## Demo
+
+<a href="https://www.loom.com/share/901fb4b74ff2417d98ba9d29db3b3f31"> <p>can-repair - Watch Video</p> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/901fb4b74ff2417d98ba9d29db3b3f31-with-play.gif"> </a>
